@@ -365,7 +365,7 @@ export default function Home() {
         {step === 8 && (
           <section className="text-center py-24">
 
-            <hc
+            <Check
               size={64}
               className="mx-auto text-green-500 mb-4"
             />
